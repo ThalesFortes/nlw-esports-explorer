@@ -6,7 +6,7 @@
 
 Projeto construido do evendo Next Level Week da Rocketseat
 
-[Clique aqui para acessar](https://w0lfh.github.io/nlw-esports-explorer/)
+[Clique aqui para acessar](https://thalesfortes.github.io/nlw-esports-explorer/)
 
 ## Tecnologias
 
